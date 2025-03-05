@@ -1,5 +1,5 @@
-# Detailed-Employee-Report-Analysis-PowerBI-
- Detailed Employee Report Analysis : PowerBI 
+# OYO_Hotel_Booking_Analysis-PowerBI-
+ OYO_Hotel_Booking_Analysis-PowerBI 
 Industry ContextThis project is related to the Hospitality Industry, where analyzing demand and supply in the market is crucial. Understanding these factors helps the hotel industry improve services and gain a competitive advantage. The Hotel Booking Analysis Project focuses on examining various aspects such as:
 
 Booking trends
